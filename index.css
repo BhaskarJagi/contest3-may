@@ -1,0 +1,18 @@
+.coin-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .coin-name {
+    font-weight: bold;
+  }
+  
+  .coin-price {
+    color: green;
+  }
+  
+  .coin-change {
+    color: red;
+  }
+  
